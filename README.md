@@ -10,7 +10,7 @@ I’m drawn to what hides in plain sight. I liketo break rules and see whats for
 
 Inside: TryHackMe labs, offensive tools, writeups, and scars I’ve earned while teaching myself how to think like an attacker.
 
-> I am jiust curious overthinker.   
+> I am just curious overthinker.   
 > I don’t need to be perfect to be real.
 
 Every command I run is a step closer to mastering this craft.  
